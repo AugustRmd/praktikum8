@@ -11,6 +11,8 @@ classDiagram
         +hapus_data() void
     }
 ```
+
+## Flowchart
 ```mermaid
 flowchart TD
     A([Start]) --> B[/User Input/]
