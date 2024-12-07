@@ -10,3 +10,6 @@ classDiagram
         +ubah_data() void
         +hapus_data() void
     }
+```
+
+
